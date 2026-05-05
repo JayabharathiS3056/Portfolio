@@ -1,6 +1,6 @@
 # Jayabharathi S — Personal Portfolio
 
-A clean, responsive developer portfolio built with pure HTML, CSS, and JavaScript — no frameworks, no dependencies. Fully owned and easily customizable.
+A clean, responsive developer portfolio built with pure HTML, CSS and JavaScript.
 
 🌐 **Live Site:** [jayabharathis-portfolio.netlify.app](https://jayabharathis-portfolio.netlify.app)
 
@@ -9,7 +9,7 @@ A clean, responsive developer portfolio built with pure HTML, CSS, and JavaScrip
 ## 🖥️ Sections
 
 - **Home** — Hero with typed text effect and animated avatar
-- **About** — Background, education, goal and location
+- **About** — Background, education goal and location
 - **Skills** — Frontend, Backend, Database and Tools with animated progress bars
 - **Services** — Web Design, Frontend Development, Responsive Websites, Version Control & Git
 - **Projects** — Movie Watchlist and E-Commerce Agri Platform with tech stack details
